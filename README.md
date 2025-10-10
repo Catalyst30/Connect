@@ -12,3 +12,5 @@ the typescript doc
 the node.js file
 
 the react doc
+
+the guide from johnfavour
