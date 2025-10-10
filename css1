@@ -1,0 +1,11 @@
+#paragraph1{
+width: 200px;
+border: 4px solid red;
+padding: 16px 16px 16px 16px;
+margin: 16px 16px 16px 16px ;
+
+box-sizing: border-box;
+
+}
+
+/* time for the css crsh course movement*/
