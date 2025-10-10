@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FRONT END DEVELOPMENT</title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div>
+    <h1> THIS IS THE BEGINNING</h1>
+    <button> START </button>
+
+    <!-- OMO SLEEP WNA FINISH ME BUT I GO CHEST AM -->
+
+<h2> lets write on lorem </h2>
+
+lorem is  a populat text used to fill in spaces especislly when designing or writing code
+
+<br>
+<br>
+
+<b>
+<!-- this section is to create links -->
+
+<a href="google.com"> Search</a>
+
+<!-- let's try it again-->
+
+<br>
+<br>
+<div>
+<a href="facebook.com"> Go to Facebook </a>
+</b>
+<!-- let's look at ordered and  unordered list -->
+
+<h1> EKONUWA MARKET LIST </h1>
+<ol>
+<li>APPLE</li>
+<LI> BANNANA</LI>
+<li>CHERRIES</li>
+</ol>
+
+<!-- UNORDERD LIST YOU HAVE TO USE THE <ul> </ul> tag and <li> </li> tAG LIKE THIS -->
+
+<ul> 
+<li> 30 pieces of apple</li>
+<li> 50 pieces of bannana </li>
+<li> 30 pieces of cherries</li>
+</ul>
+        
+</div>
+<!-- time to create forms -->
+<!-- In creating form  to add some cool featurers like first name use the place holder tool to get it dine -->
+<form>
+<div>
+<label> NAME </label>
+<input type="text" placeholder="First name" />
+
+
+</div>
+
+<div>
+<label> EMAIL </label>
+<input type="email" placeholder="Email" />
+</div>
+
+<div> 
+<label> PASSWORD </label>
+<input type="password" placeholder=" Password">
+</div>
+
+<div>
+<label> DATE</label>
+<input type="date" />
+</div>
+
+
+<div> 
+<label> NUMBER</label>
+<input type="number"/>
+</div>
+
+<!-- the sign /> signifies that the tag is not a closing tag from my tutor -->
+
+<div>
+<label> GENDER </label>
+<select>
+
+    <option value="MALE"> MALE</option>
+    <option value="FEMALE"> FEMALE</option>
+    <option value="i don't know 😶"> i don't know 😶</option>
+</select>
+</div>
+
+<div> 
+<label> MESSAGE</label>
+<textarea></textarea>
+
+</div>
+
+<div>
+<BUTTON> SUBMIT </BUTTON>
+</form>
+
+<!-- putting image in html -->
+
+<img src="data:image/jpeg;base64,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" alt="the picture of a boy on the internet whose name is Adugba joshua">
+</div>
+
+</div>
+</body>
+</html>
