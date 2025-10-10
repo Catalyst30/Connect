@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PRACTICE SECTION</title>
+<style>
+h1{
+    color: brown;
+    font-size: 20px;
+}
+
+</style>
+
+<link rel="stylesheet" href="personaltrial.css">
+</head>
+<body style="background-color: bisque;">
+    <!-- THIS SECTION IS FOR PRACTICING WHAT I LEARNT SO FAR-->
+
+    <!-- LET ME START FROM HEADINGS TO PARAGRAPH TO FORMS TO LIST-->
+
+    <h1> The first man </h1>
+The first man to land on the moon is Neil armstrongin the year 1996
+
+<p id="tim" class="paragraph1"> this is the first paragraph for Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos fuga ut dolorem autem molestias, nam nulla impedit adipisci, nobis ullam blanditiis velit laborum alias minima nihil possimus inventore doloribus. Ratione.</p>
+<p id="bro" class="paragraph 2"> this is the first paragraph for Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae, facere a modi optio quaerat neque maiores cupiditate molestias dolore esse culpa perspiciatis dolores, laudantium excepturi aut necessitatibus! Debitis, labore dolor.</p>
+<p id="let him cook" class="paragraph 3"> this is the first paragraph for Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, nisi quo fugit laborum cupiditate officia exercitationem ipsum adipisci autem sed iure, impedit enim maxime in saepe deleniti labore quidem debitis!</p>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi voluptate provident consequatur nulla. Beatae dolores eius ea, reiciendis magnam voluptatibus.
