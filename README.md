@@ -16,3 +16,5 @@ the react doc
 the guide from johnfavour
 
 the documentation
+
+the guide from team lead
