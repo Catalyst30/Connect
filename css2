@@ -1,0 +1,8 @@
+.title{
+background-color: red;
+position:relative;
+width: 100%;
+bottom: 0;
+left: 0;
+
+}
