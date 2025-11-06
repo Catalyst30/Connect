@@ -1,5 +1,5 @@
 # Connect
-a decentralized social media platform
+a **decentralized social media platform**
 
 # html file 
 
