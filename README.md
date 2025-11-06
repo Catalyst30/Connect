@@ -1,7 +1,7 @@
 # Connect
 a decentralized social media platform
 
-the html file 
+# html file 
 
 <!DOCTYPE html>
 <html lang="en">
