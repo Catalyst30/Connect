@@ -20,7 +20,9 @@ a **decentralized social media platform**
 
     <img src="https://cdn.prod.website-files.com/61bc21e3a843412266a08eb3/6841a7367bc9aa302de854ed_Agnes%20picture.jpg">
 
-*** </div>
+***
+
+ </div>
 
 <h1> CSS CRASH COURSE</h1>
 <h1 class="title"> CSS CRASH COURSE</h1>
