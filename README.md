@@ -23,21 +23,3 @@ a **decentralized social media platform**
 ***
 
  </div>
-
-<h1> CSS CRASH COURSE</h1>
-<h1 class="title"> CSS CRASH COURSE</h1>
-<h1> CSS CRASH COURSE</h1>
-<h1> CSS CRASH COURSE</h1>
-
-<h2> CSS CRASHOURSE</h2>
-<div class="parent">
-<div class="child"></div>
-
-</div>
-
-
-
-</body>
-</html>
-
-
